@@ -19,7 +19,7 @@ single `GET /routes` endpoint. PoC for the FunWithFlights presale case.
   throwaway sketch.
 - Must be **defensible on live-coding**: no "magic", every choice has a
   reason.
-- Scope explicitly narrowed by the committee: **aggregation only, no UI**.
+- Scope explicitly narrowed: **aggregation only, no UI**.
 
 ## Tech stack (locked — do not change without asking)
 

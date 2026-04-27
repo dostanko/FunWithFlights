@@ -31,7 +31,7 @@ set -euo pipefail
 AWS_REGION="${AWS_REGION:-eu-central-1}"
 ECR_REPO_NAME="${ECR_REPO_NAME:-funwithflights-routes}"
 ECS_CLUSTER="${ECS_CLUSTER:-default}"
-ECS_SERVICE="${ECS_SERVICE:-funwithflights-routes-e788}"
+ECS_SERVICE="${ECS_SERVICE:-funwithflights-routes-32e0}"
 IMAGE_TAG="${IMAGE_TAG:-latest}"
 
 # ─── Derived values ────────────────────────────────────────────────────────
